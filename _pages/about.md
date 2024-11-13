@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Nilanjan Paul
+
 ======
 Generative AI Specialist and Data Scientist with expertise in AI-powered Product Development and Interactive Analytics.
 
